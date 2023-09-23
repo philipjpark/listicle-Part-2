@@ -29,14 +29,13 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-**Note: please be sure to 
-
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://imgur.com/mqkBmdO
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  Add GIF tool here
+GIF created with Kap
+
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -46,7 +45,7 @@ GIF created with ...  Add GIF tool here
 
 Describe any challenges encountered while building the app or any additional context you'd like to add.
 
-I am not sure how to style the app using Picocss using Vanilla JS.
+It was challenging but fun to build this app. 
 
 ## License
 
