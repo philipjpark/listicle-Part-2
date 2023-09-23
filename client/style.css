@@ -8,8 +8,10 @@
 /* Header CSS */
 .header-container {
   overflow: hidden;
-  padding: 20px 10px;
-  padding-bottom: 60px;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding: 14px 16px;
 }
 
 .header-left {
@@ -26,6 +28,7 @@
 .header-left h1 {
   float: right;
   font-size: 45px;
+  margin-right: 78px; 
   
 }
 
@@ -65,11 +68,7 @@ main {
   width: 300px;
   height: 450px;
   background: transparent;
-  border-style: solid;
-  border-width: 3px;
-  border-color: rgb(3, 7, 89);
-  border-radius: 0.3rem;
-  box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, 0.057);
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   margin-top: 0px;
   margin-left: 20px;
   margin-right: 40px;
@@ -152,67 +151,3 @@ main {
 .gift-details {
   width: 45vw;
 }
-
-
-
-/* :root {
-  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
-  line-height: 1.5;
-  font-weight: 400;
-
-  color-scheme: light dark;
-  color: black;
-  background-color: white;
-
-  font-synthesis: none;
-  text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  -webkit-text-size-adjust: 100%;
-}
-
-body {
-  margin: 0;
-  display: flex;
-  place-items: center;
-  min-width: 320px;
-  min-height: 100vh;
-}
-
-header.js 
-Using a container element can help isolate a group of elements and make it easier to apply styles to them as a group.  
-.header-container {
-  overflow: hidden;
-  top: 0;
-  left: 0;
-  right: 0;
-  padding: 14px 16px;
-}
-
-.header-left {
-  position: absolute;
-  top: 14px;
-}
-
-.header-left img {
-  padding-top: 8px;
-  height: 70px;
-  margin-right: 10px;
-}
-
-.header-left h1 {
-  float: right;
-  --color: var(--primary);
-  font-size: 45px;
-  margin-right: 78px; 
-}
-
-.header-right {
-  position: absolute;
-  top: 14px;
-  right: 16px;
-}
-
-.header-right button {
-  font-weight: bold;
-} */
