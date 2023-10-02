@@ -1,5 +1,7 @@
 import express from 'express'
 
+import './config/dotenv.js'
+
 import playersRouter from './routes/players.js'
 
 const app = express()
