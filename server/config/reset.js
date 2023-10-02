@@ -19,15 +19,7 @@ const createPlayersTable = async () => {
             submittedOn TIMESTAMP NOT NULL
         )
     `
-
-//     try {
-//         const res = await pool.query(createTableQuery)
-//         console.log('🎉 players table created successfully')
-//     } catch (err) {
-//         console.error('⚠️ error creating players table', err)
-//     }
-// }
-
+    
 try {
     const res = await pool.query(createTableQuery)
     console.log('🎉 players table created successfully')
