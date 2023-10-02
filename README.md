@@ -1,20 +1,20 @@
-# WEB103 Project 2 - *Name of App Here*
+# WEB103 Project 2 - *Listicle*
 
-Submitted by: **Your name here**
+Submitted by: **Philip Park**
 
-About this web app: **App description here**
+About this web app: **A list of my favorite soccer players based on the confederation.**
 
-Time spent: **X** hours
+Time spent: **8** hours
 
 ## Required Features
 
 The following **required** functionality is completed:
 
 <!-- Make sure to check off completed functionality below -->
-- [ ] **The web app uses only HTML, CSS, and JavaScript without a frontend framework**
-- [ ] **The web app is connected to a PostgreSQL database, with an appropriately structured database table for the list items**
-- [ ] **The PostgreSQL database includes a table that matches the data displayed in the web app**
-  - [ ] **NOTE: Your GIF or a screenshot added to the README must include a view of your Railway database that shows the contents of the table used by your app**
+- [X] **The web app uses only HTML, CSS, and JavaScript without a frontend framework**
+- [X] **The web app is connected to a PostgreSQL database, with an appropriately structured database table for the list items**
+- [X] **The PostgreSQL database includes a table that matches the data displayed in the web app**
+  - [X] **NOTE: Your GIF or a screenshot added to the README must include a view of your Railway database that shows the contents of the table used by your app**
 
 The following **optional** features are implemented:
 
@@ -40,6 +40,7 @@ GIF created with ...  GIF tool here
 ## Notes
 
 Describe any challenges encountered while building the app or any additional context you'd like to add.
+Building out the app was rewarding and I did not encounter any challenges.
 
 ## License
 
